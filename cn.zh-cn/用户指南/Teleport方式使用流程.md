@@ -1,6 +1,6 @@
 # 使用流程<a name="ZH-CN_TOPIC_0102348052"></a>
 
-Teleport方式数据快递服务使用流程如[图 Teleport方式使用流程图](#fig19847027133410)和[表 Teleport方式使用流程简介](#tab01)所示。
+Teleport方式数据快递服务使用流程如[图1](#fig19847027133410)和[表1](#tab01)所示。
 
 **图 1**  Teleport方式使用流程图<a name="fig19847027133410"></a>  
 ![](figures/Teleport方式使用流程图.png "Teleport方式使用流程图")
