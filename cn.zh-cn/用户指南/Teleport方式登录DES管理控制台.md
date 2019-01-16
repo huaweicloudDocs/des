@@ -6,7 +6,7 @@
 
 ## 操作步骤<a name="section1338013411309"></a>
 
-1.  打开浏览器，登录[华为云官网](https://www.huaweicloud.com)。。
+1.  打开浏览器，登录[华为云官网](https://www.huaweicloud.com)。
 2.  注册华为云账号。
 
     使用华为云服务需首先注册一个华为云账号。若您已有账号，请从[步骤3](#li162017553313)开始。
@@ -23,5 +23,4 @@
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
     >为为保证您正常使用DES，建议您先充值购买DES。购买方式，请参见[购买指南](https://support.huaweicloud.com/pg-des/des_05_0001.md)。  
-
 
