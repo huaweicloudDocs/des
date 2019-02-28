@@ -1,8 +1,8 @@
 # 拷贝数据<a name="ZH-CN_TOPIC_0098461123"></a>
 
-Teleport在寄送给用户前，根据用户的需要，创建CIFS或NFS共享文件系统。
+Teleport在寄送给用户前，根据用户的需要，管理员会创建CIFS或NFS共享文件系统。
 
-CIFS共享文件系统使用Windows客户端，NFS共享文件系统使用Linux或者Unix客户端，这两种方式将共享文件系统挂载到客户端，然后将数据拷贝至挂载的共享路径，相当于将数据拷贝至Teleport箱子中的存储设备中。
+CIFS共享文件系统使用Windows客户端，NFS共享文件系统使用Linux或者Unix客户端，这两种方式将共享文件系统挂载到客户端，然后将数据拷贝至挂载的共享路径，相当于将数据拷贝至Teleport设备中。
 
 ## CIFS共享文件系统拷贝数据<a name="section1404134717507"></a>
 
