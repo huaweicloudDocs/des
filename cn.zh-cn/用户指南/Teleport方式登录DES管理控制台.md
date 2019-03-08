@@ -2,7 +2,7 @@
 
 ## 背景信息<a name="section19245103812307"></a>
 
-用户若要登录DES管理控制台使用DES，需首先注册华为云帐号，并充值开通DES服务。
+用户若要登录DES管理控制台使用DES，需首先注册华为云帐号，并账户充值开通DES服务。
 
 ## 操作步骤<a name="section1338013411309"></a>
 
@@ -16,6 +16,8 @@
 8.  选择“服务列表 \> 存储 \> 数据快递服务”，开通并进入DES管理控制台。
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
-    >为保证正常使用DES，建议先充值购买DES。购买方式，请参见[购买指南](https://support.huaweicloud.com/pg-des/des_05_0001.md)。  
+    >-   为保证数据的正常传输，建议在账户费用充足的情况下使用DES。  
+    >-   若使用DES过程中欠费，会导致数据不能正常上传到OBS。因此建议及时查看账户情况，若已欠费，请及时充值续费，确保数据正常传输。  
+    >-   账户充值、续费管理和欠费说明的详细信息，请参考[华为云费用中心](https://support.huaweicloud.com/usermanual-billing/zh-cn_topic_0081343161.html)。  
 
 
