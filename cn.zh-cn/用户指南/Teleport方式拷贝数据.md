@@ -22,7 +22,7 @@ CIFS共享文件系统使用Windows客户端，NFS共享文件系统使用Linux�
     在“文件夹”文本框中输入“\\\\192.168.100.10\\teleportshare”，单击“完成”。
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
-    >其中192.168.100.10为[修改逻辑IP地址](修改逻辑IP地址.md)章节用户修改的逻辑IP，teleportshare是共享文件系统的共享名称，共享文件系统名称在Teleport出厂时已经创建好，用户无需自己创建。  
+    >其中192.168.100.10为用户修改的逻辑端口IP，teleportshare是共享文件系统的共享名称，共享文件系统名称在Teleport出厂时已经创建好，用户无需自己创建。  
 
 4.  将本地数据拷贝至teleportshare共享目录。
 
@@ -43,7 +43,7 @@ CIFS共享文件系统使用Windows客户端，NFS共享文件系统使用Linux�
     在Linux/Unix本地创建一个挂载点，比如mkdir -p /mnt/folder，然后执行命令mount –t nfs 192.168.100.10:/teleportshare  /mnt/folder。
 
     >![](public_sys-resources/icon-note.gif) **说明：**   
-    >其中192.168.100.10为[修改逻辑IP地址](修改逻辑IP地址.md)章节用户修改的逻辑IP，teleportshare是共享文件系统的共享名称，共享文件系统名称在Teleport出厂时已经创建好，用户无需自己创建。  
+    >其中192.168.100.10为用户修改的逻辑端口IP，teleportshare是共享文件系统的共享名称，共享文件系统名称在Teleport出厂时已经创建好，用户无需自己创建。  
 
 3.  将本地数据拷贝至/mnt/folder目录。
 
