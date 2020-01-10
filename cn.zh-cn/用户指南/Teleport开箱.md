@@ -7,9 +7,11 @@
 ## 前提条件<a name="zh-cn_topic_0097288780_section16740747488"></a>
 
 -   已经通过短信获取开箱的帐号和密码。
--   已经签收Teleport设备箱。
+-   已经签收Teleport设备箱。根据下图确认Teleport设备型号，不同型号的开箱方式不同。
 
-## 开箱步骤<a name="zh-cn_topic_0097288780_section13907949452"></a>
+![](figures/zh-cn_image_0218511371.png)
+
+## Teleport V1设备开箱步骤<a name="zh-cn_topic_0097288780_section13907949452"></a>
 
 1.  将Teleport设备箱侧放在地面，触摸屏朝上，不影响物理锁扣解锁，方便打开箱子侧面的屏幕保护盖。Teleport设备箱如[图1](#zh-cn_topic_0097288780_fig814844317552)。
 
@@ -27,4 +29,16 @@
     >“user”帐号和密码会以短信通知方式提供给用户，密码默认为服务单号后6位。  
 
 4.  打开设备箱两侧共6个锁扣，取下两侧的保护盖，完成Teleport开箱。
+
+## Teleport V2设备开箱步骤<a name="section71146419166"></a>
+
+1.  获取开箱密码。
+2.  用密码打开A/B两个锁，手动打开C/D的卡扣。
+
+    ![](figures/zh-cn_image_0218511372.png)
+
+3.  打开底座上的E/F两个卡扣，完成Teleport V2开箱
+
+    ![](figures/zh-cn_image_0218511373.png)
+
 
