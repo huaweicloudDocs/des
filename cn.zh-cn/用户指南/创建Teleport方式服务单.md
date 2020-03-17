@@ -70,5 +70,5 @@
 
 
 >![](public_sys-resources/icon-note.gif) **说明：**   
->一个服务单仅需上传一次访问密钥（AK/SK）。服务单创建完成后，即可在服务单列表中的操作列单击“输入访问密钥（AK/SK）”上传AK/SK。获取最新访问密钥，请参考[访问密钥（AK/SK）管理](https://support.huaweicloud.com/usermanual-ca/zh-cn_topic_0046606340.html)。  
+>一个服务单仅需上传一次访问密钥（AK/SK）。服务单创建完成后，即可在服务单列表中的操作列单击“输入访问密钥（AK/SK）”上传AK/SK。获取最新访问密钥，请参考[访问密钥（AK/SK）管理](https://support.huaweicloud.com/usermanual-ca/ca_01_0003.html)。  
 
