@@ -22,7 +22,7 @@ Teleport设备通过逻辑端口访问共享文件系统，逻辑端口作为区
 
 3.  系统弹出“成功”对话框，提示操作成功。单击“确定”。
 
-    >![](public_sys-resources/icon-notice.gif) **须知：**   
-    >在客户端访问NFS/CIFS共享时，必须使用逻辑端口地址来访问共享文件系统。  
+    >![](public_sys-resources/icon-notice.gif) **须知：** 
+    >在客户端访问NFS/CIFS共享时，必须使用逻辑端口地址来访问共享文件系统。
 
 

@@ -20,13 +20,13 @@
 
 2.  触摸屏幕，屏幕亮。
 
-    >![](public_sys-resources/icon-note.gif) **说明：**   
-    >如果遇到触摸屏不亮的情况，请使用通用USB接口对其充电数分钟后再使用。  
+    >![](public_sys-resources/icon-note.gif) **说明：** 
+    >如果遇到触摸屏不亮的情况，请使用通用USB接口对其充电数分钟后再使用。
 
 3.  单击“开箱 \> 密码输入”，输入“user”帐号，单击“完成”，输入密码，单击“开箱”。听见“吱”的声响，设备箱解锁成功。
 
-    >![](public_sys-resources/icon-note.gif) **说明：**   
-    >“user”帐号和密码会以短信通知方式提供给用户，密码默认为服务单号后6位。  
+    >![](public_sys-resources/icon-note.gif) **说明：** 
+    >“user”帐号和密码会以短信通知方式提供给用户，密码默认为服务单号后6位。
 
 4.  打开设备箱两侧共6个锁扣，取下两侧的保护盖，完成Teleport开箱。
 
